@@ -13,11 +13,11 @@ a:visited {
   text-decoration: underline; 
 }
 a;hover
-color: #006633; 
+  color: #006633;
 text-decoration: none;
 }
 #footer{
-  font-sized: small
+  font-size: small
     text-aligh: center
     clear: both:
 }  
