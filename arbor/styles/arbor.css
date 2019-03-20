@@ -9,15 +9,15 @@ a:link {
   text-decoration: underline;
 }
 a:visited {
-  color: #990000
-  text-decoration: underline; 
+  color: #990000;
+  text-decoration: underline;
 }
-a;hover
+a;hover {
   color: #006633;
-text-decoration: none;
+  text-decoration: none;
 }
 #footer{
   font-size: small
-    text-aligh: center
-    clear: both:
-}  
+  text-aligh: center;
+  clear: both;
+}
